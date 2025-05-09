@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 -  # 👋 I’m Sarath
-- 🎓 I've completed my Bachelor of Engineering in EEE from Sri Venkateswara College of Engineering & Technology.
-- 👀 I’m interested in Data Engineering and Data science Projects.
+- 🎓 Currently am working as a data engineer.
+- 👀 I’m interested in Data Engineering and Data Science Projects.
 - 🌱 I’m currently learning from Coursera, Udemy and Kaggle.
 - 💞️ I want to collaborate on Data Engineering and Data Science Domains.
 
